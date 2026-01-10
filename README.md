@@ -1,2 +1,0 @@
-# sandrosaran.github.io
-portfolio
