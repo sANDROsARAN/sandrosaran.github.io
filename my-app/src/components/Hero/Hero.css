@@ -1,0 +1,8 @@
+.big-letters {
+    background-color: red;
+    min-height:10rem;
+    font-size: 500%;
+    display: flex;
+    align-items: center;
+    padding: 10rem;
+}
